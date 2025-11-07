@@ -30,7 +30,7 @@ export default function HomePage() {
     <div>
     <main className="container mx-auto p-4 md:p-12">
       <h1 className="text-5xl font-extrabold mb-8 text-center text-pink-700 tracking-wider">
-        🌸 The Language of Flowers Website
+        🌸 Flower Language Collections
       </h1>
 
       <div className="mb-10 max-w-xl mx-auto">
@@ -76,8 +76,11 @@ export default function HomePage() {
                 <p className="text-lg text-pink-500 mt-2 font-medium">
                   <span className="font-semibold text-pink-700">Meaning:</span> {flower.englishMeaning.split(',')[0]}...
                 </p>
-                <div className="mt-4 inline-block bg-pink-100 text-pink-600 text-sm font-semibold py-1 px-3 rounded-full group-hover:bg-pink-200">
-                  Read More
+                <div className="mt-4 flex">
+                  <div className="inline-block bg-pink-100 text-pink-600 text-sm font-semibold py-1 px-3 rounded-full ml-auto 
+                   group-hover:bg-pink-200 transition-colors duration-300">
+                    Read More
+                  </div>
                 </div>
               </div>
             </Link>
