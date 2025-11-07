@@ -1,7 +1,7 @@
 # 🌷 The Language of Flowers (Floriography)
 -----
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up and run the project locally.
 
@@ -78,6 +78,6 @@ flower-language-web/
 
 -----
 
-## 💖 Credit
+## About this Project
 
-Developed by **srp.mango** as a **Next.js learning project**.
+Developed by **srp.mango** as a **Next.js personal learning project**.
