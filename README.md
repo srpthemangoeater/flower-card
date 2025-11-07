@@ -13,7 +13,7 @@ Ensure you have Node.js (v18+) and npm/yarn/pnpm installed.
 
 1.  Clone the repository:
     ```bash
-    git clone [YOUR_REPO_URL] flower-language-web
+    git clone https://github.com/srpthemangoeater/flower-card flower-language-web
     cd flower-language-web
     ```
 2.  Install dependencies:
