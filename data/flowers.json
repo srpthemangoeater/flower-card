@@ -1,20 +1,147 @@
 [
-  {
-    "id": "rose",
-    "englishName": "Rose",
-    "englishMeaning": "Eternal love, Beauty, Courage",
+{
+    "id": "abatina",
+    "englishName": "Abatina",
+    "englishMeaning": "Fickleness",
     "image": ""
-  },
-  {
-    "id": "lily",
-    "englishName": "Lily",
-    "englishMeaning": "Purity, Sympathy, Majestic beauty",
+    },
+    {
+    "id": "abecedary",
+    "englishName": "Abecedary",
+    "englishMeaning": "Volubility",
     "image": ""
-  },
-  {
-    "id": "sunflower",
-    "englishName": "Sunflower",
-    "englishMeaning": "Adoration, Longevity, Loyalty",
+    },
+    {
+    "id": "abraham-s-balm",
+    "englishName": "Abraham'S Balm",
+    "englishMeaning": "Coldness, Command",
     "image": ""
-  }
+    },
+    {
+    "id": "acacia-blossom",
+    "englishName": "Acacia Blossom",
+    "englishMeaning": "Concealed Love, Beauty In Retirement, Friendship, Chaste Love",
+    "image": ""
+    },
+    {
+    "id": "acacia-rose",
+    "englishName": "Acacia Rose",
+    "englishMeaning": "Friendship",
+    "image": ""
+    },
+    {
+    "id": "acacia-rose-white",
+    "englishName": "Acacia Rose White",
+    "englishMeaning": "Elegance",
+    "image": ""
+    },
+    {
+    "id": "acacia-yellow",
+    "englishName": "Acacia Yellow",
+    "englishMeaning": "Secret Love",
+    "image": ""
+    },
+    {
+    "id": "acalia",
+    "englishName": "Acalia",
+    "englishMeaning": "Temperance",
+    "image": ""
+    },
+    {
+    "id": "acanthus",
+    "englishName": "Acanthus",
+    "englishMeaning": "Arts",
+    "image": ""
+    },
+    {
+    "id": "achillea",
+    "englishName": "Achillea",
+    "englishMeaning": "War",
+    "image": ""
+    },
+    {
+    "id": "achimenes",
+    "englishName": "Achimenes",
+    "englishMeaning": "Such Worth Is Rare",
+    "image": ""
+    },
+    {
+    "id": "acorn",
+    "englishName": "Acorn",
+    "englishMeaning": "Nordic Symbol Of Life And Immortality",
+    "image": ""
+    },
+    {
+    "id": "adder-s-tongue",
+    "englishName": "Adder'S Tongue",
+    "englishMeaning": "Jealousy",
+    "image": ""
+    },
+    {
+    "id": "adonis-vernalis",
+    "englishName": "Adonis Vernalis",
+    "englishMeaning": "Bitter Memories",
+    "image": ""
+    },
+    {
+    "id": "agrimony",
+    "englishName": "Agrimony",
+    "englishMeaning": "Thankfulness",
+    "image": ""
+    },
+    {
+    "id": "aloe",
+    "englishName": "Aloe",
+    "englishMeaning": "Superstition",
+    "image": ""
+    },
+    {
+    "id": "alstroemeria",
+    "englishName": "Alstroemeria",
+    "englishMeaning": "Devotion",
+    "image": ""
+    },
+    {
+    "id": "althea",
+    "englishName": "Althea",
+    "englishMeaning": "Consumed By Love",
+    "image": ""
+    },
+    {
+    "id": "alyssum",
+    "englishName": "Alyssum",
+    "englishMeaning": "Worth Beyond Beauty, Sweet",
+    "image": ""
+    },
+    {
+    "id": "amaranth",
+    "englishName": "Amaranth",
+    "englishMeaning": "Unfading Love, Faith, Immortality",
+    "image": ""
+    },
+    {
+    "id": "amaranth-cockscomb",
+    "englishName": "Amaranth (Cockscomb)",
+    "englishMeaning": "Foppery, Affectation",
+    "image": ""
+    },
+    {
+    "id": "amaranth-globe",
+    "englishName": "Amaranth (Globe)",
+    "englishMeaning": "Immortality, Unfading Love",
+    "image": ""
+    },
+    {
+    "id": "amaryllis",
+    "englishName": "Amaryllis",
+    "englishMeaning": "Splendid Beauty, Pride, Pastoral Poetry",
+    "image": ""
+    },
+    {
+    "id": "ambrosia",
+    "englishName": "Ambrosia",
+    "englishMeaning": "Your Love Is Reciprocated",
+    "image": ""
+    }
+
 ]

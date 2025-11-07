@@ -6,6 +6,8 @@ import { useState, useMemo } from 'react';
 import flowersData from '@/data/flowers.json';
 import { Flower } from '@/types/flower';
 
+import Footer from '@/app/components/Footer';
+
 const flowers: Flower[] = flowersData as Flower[];
 
 const PLACEHOLDER_IMAGE_URL = 'https://placehold.co/600x400/EEE/31343C'; 
@@ -25,6 +27,7 @@ export default function HomePage() {
   }, [searchTerm]);
 
   return (
+    <div>
     <main className="container mx-auto p-4 md:p-12">
       <h1 className="text-5xl font-extrabold mb-8 text-center text-pink-700 tracking-wider">
         🌸 The Language of Flowers Website
@@ -33,7 +36,7 @@ export default function HomePage() {
       <div className="mb-10 max-w-xl mx-auto">
         <input
           type="text"
-          placeholder="Search flowers by name, e.g., 'rose' or 'lily'..."
+          placeholder="What flower are you looking for?"
           className="w-full p-4 border-2 border-pink-300 rounded-lg shadow-md focus:outline-none focus:border-pink-500 transition duration-200 text-lg"
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
@@ -82,5 +85,7 @@ export default function HomePage() {
         </div>
       )}
     </main>
+    <Footer />
+    </div>
   );
 }
