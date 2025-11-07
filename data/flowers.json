@@ -1,0 +1,20 @@
+[
+  {
+    "id": "rose",
+    "englishName": "Rose",
+    "englishMeaning": "Eternal love, Beauty, Courage",
+    "image": ""
+  },
+  {
+    "id": "lily",
+    "englishName": "Lily",
+    "englishMeaning": "Purity, Sympathy, Majestic beauty",
+    "image": ""
+  },
+  {
+    "id": "sunflower",
+    "englishName": "Sunflower",
+    "englishMeaning": "Adoration, Longevity, Loyalty",
+    "image": ""
+  }
+]
