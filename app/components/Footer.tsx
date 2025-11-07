@@ -1,6 +1,5 @@
 // src/app/components/Footer.tsx
 import React from 'react';
-import Link from 'next/link';
 
 const Footer: React.FC = () => {
   const currentYear = new Date().getFullYear();
@@ -16,8 +15,7 @@ const Footer: React.FC = () => {
 
         {/* Copyright */}
         <p className="mt-6 text-sm text-gray-500">
-          &copy; {currentYear} The Language of Flowers. All rights reserved. 
-          Developed by srp-mango with Next.js and Tailwind CSS.
+          &copy; {currentYear} The Language of Flowers | Developed by Srp.mangoeater
         </p>
       </div>
     </footer>
