@@ -8,6 +8,23 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: '🌷 FLORIOGRAPHY | The Language of Flowers',
   description: 'A collection of flower meanings.',
+  themeColor: '#FF69B4',
+  openGraph: {
+    title: 'FLORIOGRAPHY | The Language of Flowers',
+    description: 'A collection of flower meanings.',
+    url: 'https://flower-card.netlify.app/', // เปลี่ยนเป็น URL จริงของคุณ
+    siteName: 'Floriography',
+    images: [
+      {
+        url: '/images/social-preview.png', // 👈 ใส่พาธของรูปภาพที่คุณต้องการให้แสดง
+        width: 1200,
+        height: 630,
+        alt: 'The Language of Flowers Website Preview',
+      },
+    ],
+    locale: 'en_US',
+    type: 'website',
+  },
 };
 
 export default function RootLayout({
